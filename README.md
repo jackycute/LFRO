@@ -1,1 +1,1 @@
-# Little Fighter: Remake Online
+# Little Fighter Remake Online
